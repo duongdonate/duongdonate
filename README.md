@@ -5,10 +5,10 @@
 
 
 ### About Me
-- **Software Engineering** student at **Saigon University (SGU)** with a GPA of **3.43/4.00**.
-- Aspiring **Full-stack MERN Developer** with a focus on high-performance web applications.
+- As a **Software Engineering** student at **Saigon University (SGU)** with a GPA of **3.43/4.00**.
+- Seeking **Full-stack Web Developer** with a focus on high-performance web applications.
 - Passionate about architectural challenges and modern web technologies.
-- Based in **Ho Chi Minh City**.
+- Based in **District 8, Ho Chi Minh City**.
 
 ---
 
