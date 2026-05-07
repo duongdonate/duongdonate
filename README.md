@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Duong%20Donate.&fontSize=70&color=0:84A98C,100:F1EAD7&stroke=84A98C"> 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&&duration=4000&pause=800&color=84A98C&center=true&width=442&height=100&lines=Create+the+line;Donate+the+mind;Update+the+site" atl="Typing SVG"> 
-</p>
 
----
 
 ### About Me
 - **Software Engineering** student at **Saigon University (SGU)** with a GPA of **3.43/4.00**.
@@ -46,6 +42,10 @@ A seamless music streaming experience leveraging modern web technologies.
 <p align="left">
 <a href="mailto:duonghnh2209@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/duong-huynhngochai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&&duration=4000&pause=800&color=84A98C&center=true&width=442&height=100&lines=Create+the+line;Donate+the+mind;Update+the+site" atl="Typing SVG"> 
 </p>
 
 
