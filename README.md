@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&&duration=4000&pause=800&color=84A98C&center=true&height=60&lines=Create+the+line;Donate+the+mind;Update+the+site" atl="Typing SVG"> 
+</p>
+
+---
+
 ### Technical Skills
 | Category | Technologies |
 | :--- | :--- |
@@ -44,8 +50,6 @@ A seamless music streaming experience leveraging modern web technologies.
 <a href="https://linkedin.com/in/duong-huynhngochai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&&duration=4000&pause=800&color=84A98C&center=true&width=442&height=100&lines=Create+the+line;Donate+the+mind;Update+the+site" atl="Typing SVG"> 
-</p>
+
 
 
